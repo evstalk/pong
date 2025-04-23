@@ -1,0 +1,33 @@
+.rectangle {
+    height: 100px;
+    width: 20px;
+    background: blue;
+    position: absolute;
+}
+.evil {
+    height: 100px;
+    width: 20px;
+    background: red;
+    position: absolute;
+}
+.ball
+{
+    height: 25px;
+    width: 25px;
+    position: absolute;
+}
+.scoreRed
+{
+    color:red;
+    position: absolute;
+    top: 25px;
+    left: 1400px;
+    
+}
+.scoreBlue
+{
+    color: blue;
+    position: absolute;
+    top: 25px;
+    left: 100px;
+}
